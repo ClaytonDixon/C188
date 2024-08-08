@@ -1,0 +1,15 @@
+C:\Users\o\source\repos\c188\c188\bin\Debug\netcoreapp3.0\c188.exe
+C:\Users\o\source\repos\c188\c188\bin\Debug\netcoreapp3.0\c188.deps.json
+C:\Users\o\source\repos\c188\c188\bin\Debug\netcoreapp3.0\c188.runtimeconfig.json
+C:\Users\o\source\repos\c188\c188\bin\Debug\netcoreapp3.0\c188.runtimeconfig.dev.json
+C:\Users\o\source\repos\c188\c188\bin\Debug\netcoreapp3.0\c188.dll
+C:\Users\o\source\repos\c188\c188\bin\Debug\netcoreapp3.0\c188.pdb
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.csprojAssemblyReference.cache
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.csproj.GenerateResource.cache
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.AssemblyInfoInputs.cache
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.AssemblyInfo.cs
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.csproj.CoreCompileInputs.cache
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.dll
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.pdb
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.genruntimeconfig.cache
+C:\Users\o\source\repos\c188\c188\obj\Debug\netcoreapp3.0\c188.c188.resources
